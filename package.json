@@ -1,0 +1,17 @@
+{
+  "name": "@rajzik/conventional-changelog-lint-config-beemo",
+  "version": "0.0.0",
+  "description": "Convetional changelog lint config beemo",
+  "main": "index.js",
+  "repository": "git@github.com:rajzik/conventional-changelog-lint-config-beemo.git",
+  "author": "Jan Šilhan <silhanu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "exit 0",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@rajzik/az-semantic-release-config": "^1.0.2",
+    "semantic-release": "^17.0.4"
+  }
+}
