@@ -6,6 +6,9 @@
   "repository": "git@github.com:rajzik/conventional-changelog-lint-config-beemo.git",
   "author": "Jan Šilhan <silhanu@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "exit 0",
     "release": "semantic-release"
