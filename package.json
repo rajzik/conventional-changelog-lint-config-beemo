@@ -14,7 +14,7 @@
     "release": "semantic-release"
   },
   "devDependencies": {
-    "@rajzik/az-semantic-release-config": "^1.0.3",
+    "@rajzik/az-semantic-release-config": "^1.0.4",
     "semantic-release": "^17.0.4"
   }
 }
