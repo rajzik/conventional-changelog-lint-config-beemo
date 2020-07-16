@@ -1,6 +1,6 @@
 {
   "name": "@rajzik/conventional-changelog-lint-config-beemo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convetional changelog lint config beemo",
   "main": "index.js",
   "repository": "git@github.com:rajzik/conventional-changelog-lint-config-beemo.git",
