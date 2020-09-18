@@ -1,3 +1,15 @@
+### 1.0.4 - 2020-09-18
+
+#### 📦 Dependencies
+
+- [security] bump node-fetch from 2.6.0 to 2.6.1 (#19) ([ba26d4f](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/ba26d4f)), closes [#19](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/19)
+
+#### 🛠 Internals
+
+- bump @rajzik/az-semantic-release-config from 1.0.9 to 1.1.1 (#17) ([0fe5426](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/0fe5426)), closes [#17](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/17)
+- bump @rajzik/az-semantic-release-config from 1.1.1 to 1.1.2 (#18) ([7d4b730](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/7d4b730)), closes [#18](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/18)
+- bump semantic-release from 17.1.1 to 17.1.2 (#20) ([782618b](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/782618b)), closes [#20](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/20)
+
 ### 1.0.3 - 2020-07-16
 
 #### 📦 Dependencies
