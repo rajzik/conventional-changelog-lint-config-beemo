@@ -1,3 +1,14 @@
+### 1.0.5 - 2021-05-12
+
+#### 📦 Dependencies
+
+- [security] bump hosted-git-info from 2.8.8 to 2.8.9 (#34) ([3cfcdeb](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/3cfcdeb)), closes [#34](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/34)
+
+#### 🛠 Internals
+
+- bump @rajzik/az-semantic-release-config from 1.1.2 to 1.1.3 (#21) ([358ce19](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/358ce19)), closes [#21](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/21)
+- bump semantic-release from 17.1.2 to 17.2.2 (#26) ([25211a1](https://github.com/rajzik/conventional-changelog-lint-config-beemo/commit/25211a1)), closes [#26](https://github.com/rajzik/conventional-changelog-lint-config-beemo/issues/26)
+
 ### 1.0.4 - 2020-09-18
 
 #### 📦 Dependencies
